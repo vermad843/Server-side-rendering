@@ -1,2 +1,1 @@
-# Server-side-rendering
-Created with CodeSandbox
+[x] npm i @babel/preset-env @babel/preset-react @babel/register ignore-styles 
